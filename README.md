@@ -7,3 +7,6 @@
 # Model Structure(Prototype V2)
 ![Prototype2](https://github.com/S-SIRIUS/BoB-NLP/assets/109223193/96cfca2d-5291-4f49-abb9-81e1407e0a36)
 
+# Model Structure(Prototype V3)
+![Uploading Prototype3.png…]()
+
