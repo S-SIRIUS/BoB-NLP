@@ -1,4 +1,4 @@
-# BoB-Privacy-NLP - Paid Version
+# BoB-Privacy-NLP - (Paid Version)
 
 
 # Paid Model Structure
