@@ -2,7 +2,8 @@
 
 
 # Paid Model Structure
-![version4_1](https://github.com/S-SIRIUS/BoB-NLP/assets/109223193/e1f8ad7b-29e7-4787-bd8d-24c3094532eb)
+![version4](https://github.com/S-SIRIUS/BoB-NLP/assets/109223193/03103579-8e22-4a77-8bbe-8e8f2a414e3e)
+
 
 
 
