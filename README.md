@@ -1,10 +1,5 @@
 # BoB-Privacy-NLP
 
-# Present Model Structure
-![paid_version1](https://github.com/S-SIRIUS/BoB-NLP/assets/109223193/2826e333-09c5-47d5-8d87-7f5340ce81fe)
-
-
-
 # Model Structure(Prototype V1)
 ![Prototype1](https://github.com/S-SIRIUS/BoB-NLP/assets/109223193/3a03c0d1-b7a4-4ce9-8b9f-984392477246)
 
